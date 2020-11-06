@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My religion](https://images-cdn.9gag.com/photo/a9dN4e1_700b.jpg)
